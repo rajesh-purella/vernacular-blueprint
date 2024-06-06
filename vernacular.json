@@ -1,0 +1,65 @@
+{
+    "User Management": "యూజర్ మేనేజ్‌మెంట్",
+    "Users" : "యూజర్లు",
+    "SNo": "క్రమ సంఖ్య",
+    "Ecode" :  "ఇకోడ్",
+    "User Name" :  "వినియోగదారు పేరు",
+    "Designation" :  "నిర్వాహక పదవి",
+    "Email" :  "ఇమెయిల్",
+    "Action" :  "చర్య",
+  
+    "--view_page-starts-here--" : "--delete this line--",
+  
+  
+    "User Details" : "యూజర్లు వివరాలు",
+    "Employee Code" :  "ఉద్యోగి కోడ్",
+    "Name" :  "పేరు",
+    "Primary Contact Number": "ప్రాథమిక ఫోన్ నెంబర్",
+    "Secondary Contact Number": "ద్వితీయ ఫోన్ నెంబర్",
+    "Profile": "ప్రొఫైల్",
+    "Role": "పాత్ర",
+    "Reports To": "నివేదించుకోవడం",
+    "Bucket": "బకెట్",
+    "Product": "ఉత్పత్తి",
+    "Zone": "జోన్",
+    "Region": "ప్రాంతం",
+    "State": "రాష్ట్రం",
+    "Branch": "శాఖ",
+    "Location": "స్థానం",
+    "Pin Code": "పిన్ కోడ్",
+    "Non Hierarchy User": "నాన్ సోపానక్రమం వినియోగదారు",
+    "Allow User to login on": "యూజర్ లాగిన్ అనుమతి ఇవ్వండి",
+    "WEB": "వెబ్",
+    "MOBILE": "మొబైల్",
+    "BOTH": "రెండు",
+  
+  
+    "--_ROLES_STARTS_HERE--": "--_DELETE THIS LINE--",
+    "Roles": "పాత్రలు",
+    "Role Code": "పాత్ర కోడ్",
+    "Role Name": "పాత్ర పేరు",
+    "Created by": "సృష్టికర్త",
+    "Created on": "సృష్టించబడిన తేదీ",
+  
+  
+    "--PROFILES STARTS HERE" : "--PROFILES STARTS HERE--",
+    "Profiles" : "ప్రొఫైల్స్",
+    "Profile Code": "ప్రొఫైల్ కోడ్",
+    "Profile Name": "ఖాతాదారుని పేరు",
+    "Description": "వివరణ",
+  
+    "--USER HIERARCHY STARTS HERE": "--DELETE-THIS-LINE--",
+    "User Hierarchy": "వినియోగదారు సోపానక్రమం",
+    "Employee Code" : "ఉద్యోగి కోడ్",
+  
+    "--USER PROFILE--" : "--DELETE--THIS-LINE--",
+  
+    "--users Summary starts here": "--delete this-line--",
+    "Users Summary": "వినియోగదారుల సారాంశం",
+    "File Name": "ఫైల్ పేరు",
+    "Status": "స్థితి",
+    "Total Records": "మొత్తం రికార్డులు",
+    "Success Count": "విజయవంతమైన సంఖ్య",
+    "Failed Count": "విఫలమైంది సంఖ్య",
+    "Failed Records Report": "నివేదికా నమోదులు విఫలమైనవి"
+  }
